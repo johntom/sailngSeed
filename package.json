@@ -32,7 +32,11 @@
     "validator": "~3.5.1",
     "sails-generate-auth": "~0.1.2",
     "moment": "^2.5.1",
-    "passport-google": "^0.3.0"
+    "passport-google": "^0.3.0",
+    "passport-facebook": "^1.0.3",
+    "passport-github": "^0.1.5",
+    "passport-twitter": "^1.0.2",
+    "passport-google-oauth": "^0.1.5"
   },
   "scripts": {
     "start": "node app.js",
@@ -45,5 +49,4 @@
   },
   "author": "John Tomaselli&Oscar Molina",
   "license": "MIT"
-
 }
